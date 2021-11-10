@@ -10,8 +10,8 @@ humandate: "Dec 3, 2021"
 humantime: "9:00 am - 12:00 pm"    
 startdate: 2021-12-03     
 enddate: 2021-12-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Shane Sanders"] 
-helper: ["TBD"]
+instructor: ["Shane Sanders", "Kurt Showmaker", "Aaron McDivitt", "Richard Yanicky"] 
+helper: [""]
 email: ["susan.mcclatchy@jax.org", "shane.sanders@jax.org"] 
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 193539952207           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
